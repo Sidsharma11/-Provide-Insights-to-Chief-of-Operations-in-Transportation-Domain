@@ -63,4 +63,26 @@ performance_status
 ![Screenshot 2024-11-15 200715](https://github.com/user-attachments/assets/85e63e0e-30d8-4137-a048-3f0e45215884)
 
 
+### Business Request - 3: City-Level Repeat Passenger Trip Frequency Report
+Generate a report that shows the percentage distribution of repeat passengers by the
+number of trips they have taken in each city. Calculate the percentage of repeat passengers
+who took 2 trips, 3 trips, and so on, up to 10 trips.
+
+Each column should represent a trip count category, displaying the percentage of repeat
+passengers who fall into that category out of the total repeat passengers for that city.
+This report will help identify cities with high repeat trip frequency, which can indicate strong
+customer loyalty or frequent usage patterns.
+e Fields: city_name, 2-Trips, 3-Trips, 4-Trips, 5-Trips, 6-Trips, 7-Trips, 8-Trips, 9-Trips,
+10-Trips
+
+![Screenshot 2024-11-15 224229](https://github.com/user-attachments/assets/6b37eb5e-2da5-459d-ace9-e5623ab9f316)
+![Screenshot 2024-11-15 224251](https://github.com/user-attachments/assets/ce4295d8-eb36-4e72-a2fe-03b34e83999e)
+![Screenshot 2024-11-15 224305](https://github.com/user-attachments/assets/4c857929-5c53-459f-a64a-1204673a5ed3)
+![Screenshot 2024-11-15 224319](https://github.com/user-attachments/assets/50b013a1-7569-4ebf-a7ab-91f89c859961)
+![Screenshot 2024-11-15 224334](https://github.com/user-attachments/assets/0f01a674-642e-4014-a00f-e202d796fc62)
+
+
+
+
+
 
