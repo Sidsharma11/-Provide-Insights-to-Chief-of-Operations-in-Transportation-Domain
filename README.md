@@ -113,7 +113,21 @@ Fields
 
 
 
+### Business Request - 5: Identify Month with Highest Revenue for Each City
+Generate a report that identifies the month with the highest revenue for each city. For each
+city, display the month_name, the revenue amount for that month, and the percentage
+contribution of that month’s revenue to the city’s total revenue.
+Fields
+
+* city_name
+* highest_revenue_month
+* revenue
+* percentage_contribution (%)
 
 
+![Screenshot 2024-11-15 233944](https://github.com/user-attachments/assets/d5952c84-7510-4a2b-9e3e-9422a6fb96c2)
+![Screenshot 2024-11-15 234000](https://github.com/user-attachments/assets/05035f2c-e942-47eb-bf92-2901b4127a2f)
+![Screenshot 2024-11-15 234008](https://github.com/user-attachments/assets/fdaf9370-3ef1-4185-954b-a202440d3bf3)
+![Screenshot 2024-11-15 234045](https://github.com/user-attachments/assets/77be190d-7dc0-462a-b52a-70c2f7dd4b8c)
 
 
