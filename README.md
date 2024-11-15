@@ -62,6 +62,8 @@ performance_status
 ![Screenshot 2024-11-15 200702](https://github.com/user-attachments/assets/77a1031a-4518-473a-a6d9-c38921d14467)
 ![Screenshot 2024-11-15 200715](https://github.com/user-attachments/assets/85e63e0e-30d8-4137-a048-3f0e45215884)
 
+*************
+
 
 ### Business Request - 3: City-Level Repeat Passenger Trip Frequency Report
 Generate a report that shows the percentage distribution of repeat passengers by the
@@ -80,6 +82,35 @@ e Fields: city_name, 2-Trips, 3-Trips, 4-Trips, 5-Trips, 6-Trips, 7-Trips, 8-Tri
 ![Screenshot 2024-11-15 224305](https://github.com/user-attachments/assets/4c857929-5c53-459f-a64a-1204673a5ed3)
 ![Screenshot 2024-11-15 224319](https://github.com/user-attachments/assets/50b013a1-7569-4ebf-a7ab-91f89c859961)
 ![Screenshot 2024-11-15 224334](https://github.com/user-attachments/assets/0f01a674-642e-4014-a00f-e202d796fc62)
+
+**********
+
+
+### Business Request - 4: Identify Cities with Highest and Lowest Total New
+Passengers
+Generate a report that calculates the total new passengers for each city and ranks them
+based on this value. Identify the top 3 cities with the highest number of new passengers as
+well as the bottom 3 cities with the lowest number of new passengers, categorising them as
+"Top 3" or "Bottom 3" accordingly.
+
+Fields
+
+* city_name
+
+* total_new_passengers
+
+* city_category ("Top 3" or "Bottom 3")
+
+
+
+![Screenshot 2024-11-15 231328](https://github.com/user-attachments/assets/1a1c3e8a-b67a-4d28-b601-3a689132cffa)
+![Screenshot 2024-11-15 231337](https://github.com/user-attachments/assets/916267b3-e94e-48f8-8ec0-e69757b6b078)
+![Screenshot 2024-11-15 231348](https://github.com/user-attachments/assets/a6e5ded3-e1c4-4455-a59b-5d601639cf50)
+![Screenshot 2024-11-15 231413](https://github.com/user-attachments/assets/036528a0-c671-48e6-b619-f6e826aed83d)
+![Screenshot 2024-11-15 231422](https://github.com/user-attachments/assets/ea32b4b7-8174-472c-a3aa-4f3a7ed793a9)
+![Screenshot 2024-11-15 231430](https://github.com/user-attachments/assets/04ce01e7-bf39-44ba-aa84-a128182b3367)
+
+
 
 
 
