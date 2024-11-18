@@ -131,3 +131,28 @@ Fields
 ![Screenshot 2024-11-15 234045](https://github.com/user-attachments/assets/77be190d-7dc0-462a-b52a-70c2f7dd4b8c)
 
 
+### Business Request - 6: Repeat Passenger Rate Analysis
+Generate a report that calculates two metrics:
+1. Monthly Repeat Passenger Rate: Calculate the repeat passenger rate for each city
+and month by comparing the number of repeat passengers to the total passengers.
+2. City-wide Repeat Passenger Rate: Calculate the overall repeat passenger rate for
+each city, considering all passengers across months.
+These metrics will provide insights into monthly repeat trends as well as the overall repeat
+behaviour for each city.
+Fields:
+city_name
+month
+total_passengers
+repeat_passengers
+monthly_repeat_passenger_rate (%): Repeat passenger rate at the city and
+month level
+e city_repeat_passenger_rate (%): Overall repeat passenger rate for each city,
+aggregated across months
+
+![Screenshot 2024-11-18 094553](https://github.com/user-attachments/assets/35625e13-4406-4521-a3c8-71e46f09d44c)
+![Screenshot 2024-11-18 094843](https://github.com/user-attachments/assets/10bc4202-02f7-4ee5-a364-fbe48038de19)
+
+![Screenshot 2024-11-18 094613](https://github.com/user-attachments/assets/ee64547a-a036-4e2e-a45e-6e436b3c66b5)
+
+
+
