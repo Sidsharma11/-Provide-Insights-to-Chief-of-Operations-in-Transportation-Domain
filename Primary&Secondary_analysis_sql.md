@@ -25,4 +25,9 @@
 ![Screenshot 2024-11-18 185040](https://github.com/user-attachments/assets/81cae4b1-5c7d-438c-b22e-fdcc7d8f0265)
 
 
+## Q-5) Compare the total trips taken on weekdays versus weekends for each city over the six-month period. Identify cities with a strong preference for either weekend or weekday trips to understand demand variations.
+
+![Screenshot 2024-11-18 192001](https://github.com/user-attachments/assets/bf1ecea2-22e6-4626-9ed7-c77d1e18a991)
+![Screenshot 2024-11-18 192034](https://github.com/user-attachments/assets/47d33b4e-f701-441f-aac5-20247f533816)
+![Screenshot 2024-11-18 192058](https://github.com/user-attachments/assets/bb0a2160-8ce1-4953-be3c-e8a3aef0278d)
 
