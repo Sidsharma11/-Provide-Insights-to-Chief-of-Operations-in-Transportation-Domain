@@ -31,3 +31,14 @@
 ![Screenshot 2024-11-18 192034](https://github.com/user-attachments/assets/47d33b4e-f701-441f-aac5-20247f533816)
 ![Screenshot 2024-11-18 192058](https://github.com/user-attachments/assets/bb0a2160-8ce1-4953-be3c-e8a3aef0278d)
 
+## Q-6) Analyse the frequency of trips taken by repeat passengers in each city (e.g., % of repeat passengers taking 2 trips, 3 trips, etc.). Identify which cities contribute most to higher trip frequencies among repeat passengers, and examine if there are distinguishable patterns between tourism-focused and business-focused cities.
+
+![Screenshot 2024-11-18 235923](https://github.com/user-attachments/assets/7f7e1aa7-ee05-4e74-afe1-167692e1eec8)
+![Screenshot 2024-11-18 235937](https://github.com/user-attachments/assets/3ebe70d5-bbc2-40db-97db-37bff65eca2e)
+![Screenshot 2024-11-18 235950](https://github.com/user-attachments/assets/339c3643-0c04-48b5-96c2-73cac4df76af)
+![Screenshot 2024-11-19 000025](https://github.com/user-attachments/assets/dd18438b-c437-4ed2-9f62-8645de81a417)
+![Screenshot 2024-11-19 094342](https://github.com/user-attachments/assets/8bf9f1ce-118e-4d59-a9f9-0f7105587a7c)
+![Screenshot 2024-11-19 094403](https://github.com/user-attachments/assets/a1da0b3d-099c-4a2c-b185-3b8f3441420b)
+![Screenshot 2024-11-19 094418](https://github.com/user-attachments/assets/54c8dcde-d557-48a8-a04e-0fdb95b4bb80)
+![Screenshot 2024-11-19 094426](https://github.com/user-attachments/assets/83278328-e507-497d-bfdb-6e5eecbab896)
+
