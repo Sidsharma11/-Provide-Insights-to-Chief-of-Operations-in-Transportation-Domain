@@ -42,3 +42,17 @@
 ![Screenshot 2024-11-19 094418](https://github.com/user-attachments/assets/54c8dcde-d557-48a8-a04e-0fdb95b4bb80)
 ![Screenshot 2024-11-19 094426](https://github.com/user-attachments/assets/83278328-e507-497d-bfdb-6e5eecbab896)
 
+## Q-7)For each city, evaluate monthly performance against targets for total trips, new passengers, and average passenger ratings from targets_db. Determine if each metric met, exceeded, or missed the target, and calculate the percentage difference. Identify any consistent patterns in target achievement, particularly across tourism versus business-focused cities.
+
+### Total trip target
+
+![Screenshot 2024-11-19 102747](https://github.com/user-attachments/assets/53d82a2f-55d1-4086-8da7-132e3d2b0617)
+![Screenshot 2024-11-19 102800](https://github.com/user-attachments/assets/5c974afa-11d4-4181-88d5-4963cb8c52e0)
+![Screenshot 2024-11-19 103446](https://github.com/user-attachments/assets/17a7e922-1ba9-4923-b217-1e9486dcdb4a)
+![Screenshot 2024-11-19 103501](https://github.com/user-attachments/assets/dabdb981-86de-42e8-836a-22f851609173)
+
+### New passenger target
+![Screenshot 2024-11-19 111127](https://github.com/user-attachments/assets/80b3a32b-6271-4086-8bca-61317bc2eca6)
+![Screenshot 2024-11-19 111142](https://github.com/user-attachments/assets/449b4f36-80f2-4f85-b8a4-714a7a5ca349)
+![Screenshot 2024-11-19 111151](https://github.com/user-attachments/assets/7a76df0b-e995-46ad-bdbd-e4146f7df93d)
+
